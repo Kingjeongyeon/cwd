@@ -21,7 +21,7 @@ body {
     border: 0;
     -webkit-text-size-adjust: none;
     line-height: 1.6;
-    background: url(/cheongwadae/img/bg-wrap.jpg) no-repeat center / cover;
+    background: url(/cwd/cheongwadae/img/bg-wrap.jpg) no-repeat center / cover;
 }
 
 :root { 
@@ -87,7 +87,7 @@ h2 {
     width: 300px;
     height: 90px;
     font-size: 0;
-    background: url(/cheongwadae/img/top-logo.png) no-repeat center / 100%;
+    background: url(/cwd/cheongwadae/img/top-logo.png) no-repeat center / 100%;
 }
 
 #wrap > .top_menu {
@@ -322,7 +322,7 @@ button {
 }
 
 .checkbox input {
-    background: url(/cheongwadae/img/check_off_btn.png);
+    background: url(/cwd/cheongwadae/img/check_off_btn.png);
     width: 24px;
     height: 24px;
     margin-top: 5px;
@@ -346,7 +346,7 @@ button {
     height: 24px;
     margin-top: -12px;
     font-size: 0;
-    background: url(/cheongwadae/img/select_triangle.png) no-repeat 50% / 100%;
+    background: url(/cwd/cheongwadae/img/select_triangle.png) no-repeat 50% / 100%;
 }
 
 .agree-txt {
@@ -444,7 +444,7 @@ button {
     right: 0;
     top: 0;
     margin: 0;
-    background: url(/cheongwadae/img/ico_close_btn.png)no-repeat top left/30px;
+    background: url(/cwd/cheongwadae/img/ico_close_btn.png)no-repeat top left/30px;
     font-size: 0px;
     width: 30px;
     height: 30px;
