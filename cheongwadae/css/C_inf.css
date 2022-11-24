@@ -574,7 +574,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
     bottom: 0;
     width: 26px;
     height: 23px;
-    background: url(/cheongwadae/img/img_vScroll.png) center no-repeat;
+    background: url(/cwd/cheongwadae/img/img_vScroll.png) center no-repeat;
     background-size: contain;
     transform: translateX(-50%);
     animation: vMove 1.5s infinite linear alternate;
@@ -589,7 +589,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
 }
 
 .section1 {
-    background: url(/cheongwadae/img/main2.jpg) no-repeat center / cover;
+    background: url(/cwd/cheongwadae/img/main2.jpg) no-repeat center / cover;
     height: 100vh;
     position: relative;
 }
@@ -762,7 +762,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
 }
 
 .section2 {
-    background: url(/cheongwadae/img/main3.jpg) no-repeat center/cover;
+    background: url(/cwd/cheongwadae/img/main3.jpg) no-repeat center/cover;
     height: 100vh;
     position: relative;
 }
@@ -944,7 +944,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
 
 
 .section3 {
-    background: url(/cheongwadae/img/main4.jpg) no-repeat center / cover;
+    background: url(/cwd/cheongwadae/img/main4.jpg) no-repeat center / cover;
     height: 100vh;
     position: relative;
 }
@@ -1074,7 +1074,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
 
 
 .section4 {
-    background: url(/cheongwadae/img/main5.jpg) no-repeat center / cover;
+    background: url(/cwd/cheongwadae/img/main5.jpg) no-repeat center / cover;
     position: relative;
     height: 100vh;
 }
