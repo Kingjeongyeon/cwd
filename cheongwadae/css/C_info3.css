@@ -344,7 +344,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
     transform: translateX(-50%);
     width: 100vw;
     height: 100%;
-    background: url(/cheongwadae/img/fes_course_bg.jpg) no-repeat center/cover;
+    background: url(/cwd/cheongwadae/img/fes_course_bg.jpg) no-repeat center/cover;
     z-index: -1;
 }
 
@@ -512,7 +512,7 @@ nav ul.topmenu li.lnb:hover ul.sub {
     text-align: center;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    background-image: url(/cheongwadae/img/footer_top_arrow.png);
+    background-image: url(/cwd/cheongwadae/img/footer_top_arrow.png);
     background-position: center top 15px;
     background-repeat: no-repeat;
     z-index: 9;
