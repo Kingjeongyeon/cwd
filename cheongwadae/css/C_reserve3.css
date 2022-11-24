@@ -21,7 +21,7 @@ body {
     border: 0;
     -webkit-text-size-adjust: none;
     line-height: 1.6;
-    background: url(/cheongwadae/img/bg-wrap.jpg) no-repeat center / cover;
+    background: url(/cwd/cheongwadae/img/bg-wrap.jpg) no-repeat center / cover;
 }
 
 :root { 
@@ -87,7 +87,7 @@ h2 {
     width: 300px;
     height: 90px;
     font-size: 0;
-    background: url(/cheongwadae/img/top-logo.png) no-repeat center / 100%;
+    background: url(/cwd/cheongwadae/img/top-logo.png) no-repeat center / 100%;
 }
 
 #wrap > .top_menu {
@@ -250,7 +250,7 @@ h2 {
     right: 40px;
     top: 40px;
     margin: 0;
-    background: url(/cheongwadae/img/ico_close_btn.png) no-repeat top left/30px;
+    background: url(/cwd/cheongwadae/img/ico_close_btn.png) no-repeat top left/30px;
     width: 30px;
     height: 30px;
     font-size: 0px;
@@ -269,7 +269,7 @@ h2 {
     font-size: 24px;
     color: #000;
     font-weight: 700;
-    background: url(/cheongwadae/img/ico-notice.png)no-repeat top left/32px;
+    background: url(/cwd/cheongwadae/img/ico-notice.png)no-repeat top left/32px;
 }
 
 .list {
