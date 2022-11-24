@@ -587,7 +587,7 @@ li {
 }
 
 .section2 {
-    background: url(/img/main3.jpg) no-repeat center/cover;
+    background: url(/cwd/cheongwadae/img/main3.jpg) no-repeat center/cover;
     height: 1080px;
     position: relative;
 }
@@ -1055,7 +1055,7 @@ li {
 
 
 .section4 {
-    background: url(/img/main5.jpg) no-repeat center / cover;
+    background: url(/cwd/cheongwadae//img/main5.jpg) no-repeat center / cover;
     position: relative;
     height: 100vh;
 }
@@ -1417,7 +1417,7 @@ address, em, i {
     text-align: center;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    background-image: url(/img/footer_top_arrow.png);
+    background-image: url(/cwd/cheongwadae/img/footer_top_arrow.png);
     background-position: center top 1.5rem;
     background-repeat: no-repeat;
     z-index: 9;
