@@ -548,7 +548,7 @@ nav {
     height: 201px;
     left: 0;
     bottom: 0;
-    background: url(/cheongwadae/img/program_bg_bot.png) center top / cover no-repeat;
+    background: url(/cwd/cheongwadae/img/program_bg_bot.png) center top / cover no-repeat;
     z-index: -1;
 }
 
@@ -640,7 +640,7 @@ nav {
     text-align: center;
     -webkit-transition: all 0.5s;
     transition: all 0.5s;
-    background-image: url(/cheongwadae/img/footer_top_arrow.png);
+    background-image: url(/cwd/cheongwadae/img/footer_top_arrow.png);
     background-position: center top 15px;
     background-repeat: no-repeat;
     z-index: 9;
